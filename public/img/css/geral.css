@@ -1,0 +1,26 @@
+body {
+    background-color: gray;
+}
+
+header {
+    border: 3px dotted red;
+}
+
+button {
+    background-color: #ff5100;
+    font: #fff;
+    border: none;
+    padding: 10px 20px;
+}
+.btbuscar{
+    width: 300px;
+}
+#logo{
+    width: 64px;
+    height: 64px;
+
+}
+article > img {
+    width: 300px;
+
+}
